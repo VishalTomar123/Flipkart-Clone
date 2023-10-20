@@ -1,0 +1,295 @@
+.a{
+ position:absolute;
+ left:1160px;
+ top:12px;
+}
+.a:hover{
+ background-color:blue;
+}
+ 
+.img1{
+	 height:63px;
+	 width:109px;
+	 position:absolute;
+	 left:100px;
+}
+.l{
+height:63px;
+width:109px;
+position:absolute; 
+left:100px;
+}
+.b1{
+font-size:20px; 
+color:black; 
+height:30px; 
+position:absolute; 
+left:250px; 
+top:13px;
+border:none;
+}
+.search{
+width:610px; 
+height:30px; 
+position:absolute; 
+left:283px; 
+top:13px;
+}
+.icon1{
+position:absolute; 
+left:966px;
+top:16px;
+}
+.span1{
+position:absolute; 
+left:985px; 
+top:13px;
+}
+.icon2{
+font-size:1.5em;
+position:absolute; 
+left:1125px;
+top:15px;
+}
+.icon3{
+font-size:1em; 
+position:absolute; 
+left:1282px;
+top:18px;
+}
+.cart{
+position:absolute; 
+left:1300px; 
+top:13px;
+}
+.list{
+font-size:1.5em; 
+position:absolute; 
+left:1360px; 
+top:16px;
+}
+.row1{
+position:absolute; 
+top:100px;
+}
+.col1{
+margin-right:30px;
+}
+.grocery{
+height:60px; 
+width:60px; 
+background-size:100% 100%;
+}
+.sideimg{
+position:absolute; 
+top:254px; 
+left:25px; 
+width:1475px;
+}
+.leftbutton{
+	height:100px; 
+	width:50px; 
+	position:absolute; 
+	top:300px; 
+	left:30px; 
+	font-size:2em;
+}
+.rightbutton{
+	height:100px;
+	width:50px;
+	position:absolute; 
+	top:300px; 
+	right:50px;
+	font-size:2em;
+}
+.row2{
+	position:absolute; 
+	top:550px;
+}
+.heading{
+	font-size:1em; 
+	margin-left:25px;
+}
+.heading2{
+	font-size:1em; 
+	margin-left:50px;
+}
+.rightbutton2{
+	background-color:blue;
+	position:absolute; 
+	left:1400px; 
+	color:white; 
+	border-radius:90% 90% 90% 90%;
+}
+.row3{
+	position:absolute; 
+	top:560px;
+}
+.col2{
+	margin-left:25px;
+}
+.p1{
+	height:200px; 
+	width:150px; 
+	background-size: 100% 100%; 
+	position:relative; 
+	top:50px;
+}
+.text1{
+position:relative;top:60px;left:50px;font-family: 'Oswald', sans-serif; width:100px;}
+.p3{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:280px;
+}
+.text3{
+	position:relative;top:60px;left:340px; font-family:'Oswald',sans-serif; width:100px;
+}
+.p2{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:150px;
+}
+.text2{
+	position:relative;top:60px;left:175px; font-family:'Oswald',sans-serif; width:100px;
+}
+.p4{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:380px;
+}
+.text4{
+	position:relative;top:60px;left:435px; font-family:'Oswald',sans-serif; width:100px;
+}
+.l1{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:500px;
+}
+.text5{
+	position:relative;top:60px;left:540px; font-family:'Oswald',sans-serif; width:100px;
+}
+.l2{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:600px;
+}
+.text6{
+	position:relative;top:60px;left:650px; font-family:'Oswald',sans-serif; width:100px;
+}
+.row4{
+	position:absolute; top:900px;
+}
+.row5{
+	position:absolute; top:910px;
+}
+.a1{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px;
+}
+.text7{
+	position:relative;top:60px;left:50px;font-family: 'Oswald', sans-serif; width:100px;
+}
+.a2{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:150px;
+}
+.text8{
+	position:relative;top:60px;left:175px; font-family:'Oswald',sans-serif; width:100px;
+}
+.a3{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:280px;
+}
+.text9{
+	position:relative;top:60px;left:320px; font-family:'Oswald',sans-serif; width:100px;
+}
+.a4{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:380px;
+}
+.text10{
+	position:relative;top:60px;left:435px; font-family:'Oswald',sans-serif; width:100px;
+}
+.a5{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:500px;
+}
+.text11{
+	position:relative;top:60px;left:540px; font-family:'Oswald',sans-serif; width:100px;
+}
+.a6{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:600px;
+}
+.text12{
+	position:relative;top:60px;left:650px; font-family:'Oswald',sans-serif; width:100px;
+}
+.row6{
+	position:absolute; top:1310px;
+}
+.q1{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:-16px;
+}
+.text13{
+	position:relative;top:-4px;left:44px;font-family: 'Oswald', sans-serif; width:100px;
+}
+.q2{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:-9px; left:130px;
+}
+.text14{
+	position:relative;top:-3px;left:150px; font-family:'Oswald',sans-serif; width:100px;
+}
+.q3{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:300px;left:-300px;
+}
+.text15{
+	position:relative;top:308px;left:-249px;font-family: 'Oswald', sans-serif; width:100px;
+}
+.q4{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:60px; left:-50px;
+}
+.text16{
+	position:relative;top:68px;left:-10px; font-family:'Oswald',sans-serif; width:100px;
+}
+.s1{
+	height:600px; width:950px; background-size: 100% 100%; position:relative; top:-500px; left:475px;
+}
+.s1:hover{
+	box-shadow:10px 10px 10px 10px gray;
+}
+.row7{
+	position:absolute; top:625px;
+}
+.row8{
+	position:absolute; top:640px;
+}
+.col3{
+	margin-left:50px
+}
+.b7{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px;
+}
+.text17{
+	position:relative;top:60px;left:50px;font-family: 'Oswald', sans-serif; width:100px;
+}
+.b2{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:120px;
+}
+.text18{
+	position:relative;top:60px;left:175px; font-family:'Oswald',sans-serif; width:100px;
+}
+.b3{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:240px;
+}
+.text19{
+	position:relative;top:60px;left:270px; font-family:'Oswald',sans-serif; width:100px;
+}
+.b4{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:350px;
+}
+.text20{
+	position:relative;top:60px;left:420px; font-family:'Oswald',sans-serif; width:100px;
+}
+.b5{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:500px;
+}
+.text21{
+	position:relative;top:60px;left:540px; font-family:'Oswald',sans-serif; width:100px;
+}
+.b6{
+	height:200px; width:150px; background-size: 100% 100%; position:relative; top:50px; left:600px;
+}
+.text22{
+	position:relative;top:60px;left:650px; font-family:'Oswald',sans-serif; width:100px;
+}
+.row9{
+	position:absolute; top:970px; left:50px; right:50px; width:95%;
+}
+.last{
+	background-color:black; color:white;height:100px; width:100%;
+}
